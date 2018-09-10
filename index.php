@@ -4,257 +4,129 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Bán thuốc chữa bệnh viêm xoang</title>
+    <title>Xoang Hoa Đà chữa bệnh viêm xoang</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/fa/css/font-awesome.min.css">
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <div id="fb-root"></div>
-    <script>(function(d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) return;
-        js = d.createElement(s); js.id = id;
-        js.src = 'https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.1';
-        fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));</script>
-
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-md-12 col-sm-12 part-1">
-                <div class="banner center">
-                    <img src="img/banner1.png" alt="">
-                </div>
-                <div class="center btn-register">
-                    <a href="" class="btn btn-lg btn-success">ĐÔNG Y GIA TRUYỀN ĐẶC TRỊ VIÊM XOANG</a>
-                </div>
-                <div class="center slogan">
-                    <h2>Chúng tôi đã chữa thành công cho hơn 28.786 người bệnh</h2>
-                </div>
-                <div class="center intro">
-                    <div class="row">
-                        <div class="col-md-5 col-md-offset-1">
-                            <h2>DÀNH CHO NHỮNG AI</h2>
-                            <div class="list">
-                            	<div class="item">Bị viêm xoang, viêm mũi dị ứng.</div>
-                                <div class="item">Hắt hơi, xổ mũi khi thay đổi thời tiết.</div>
-                                <div class="item">Đau đầu, khó ngủ, ảnh hưởng đến sức khoẻ, sinh hoạt cá nhân.</div>
-                                <div class="item">Đã điều trị lâu nhưng vẫn không khỏi.</div>
-                                <div class="item">Đã sử dụng đủ loại thuốc nhưng bênh tình không thuyên giảm.</div>
-                            </div>
-                        </div>
-                        <div class="col-md-5 center">
-                            <img src="img/medicine.png" alt="">
-                        </div>
-                    </div>
-                </div>
-                <div class="center btn-register">
-                    <a href="" class="btn btn-lg btn-warning"><h1>ĐĂNG KÝ TƯ VẤN MIỄN PHÍ</h1></a>
-                </div>
-                <div class="center" style="padding-left: 50%;margin-bottom: -10px;">
-                	<div class="down-level-1">
-		            	<div class="down-level-2">
-		            		<span class="glyphicon glyphicon-arrow-down"></span>
-		            	</div>
-		            </div>
-                </div>
-            </div>
-            <div class="col-md-12 col-sm-12 part-2">
-
-                <div class="center header">
-                    <h1>CÁC DẠNG VIÊM XOANG HAY GẶP</h1>
-                </div>
-                <div class="center">
-                    <div class="row">
-                        <div class="col-md-3 col-md-offset-2">
-                            <img src="img/medicine.png" alt="">
-                        </div>
-                        <div class="col-md-6">
-                            <img src="img/list-illness.jpg" alt="">
-                        </div>
-                    </div>
-                </div>
-                <div class="center" style="padding-left: 50%;margin-bottom: -10px;">
-                	<div class="down-level-1">
-		            	<div class="down-level-2">
-		            		<span class="glyphicon glyphicon-arrow-down"></span>
-		            	</div>
-		            </div>
-                </div>
-            </div>
-
-            <div class="col-md-12 col-sm-12 part-3">
-                <div class="center header">
-                    <h1>NGUYÊN NHÂN GÂY BỆNH</h1>
-                </div>
-                <div class="center">
-                    <div class="content">Viêm xoang (hay còn gọi là viêm mũi xoang) là loại bệnh xuất hiện quanh năm, nhưng thường rộ lên vào thời điểm giao mùa. Có thể nói, cứ khoảng 10 bệnh nhân đến khám thì 4 đến 5 người được phát hiện viêm xoang. Để lâu, sẽ dẫn đến biến chứng Viêm não, nhiễm trùng huyết. Loại biến chứng cấp này rất nguy hiểm, có thể dẫn đến tử vong.</div>
-                </div>
-                <div class="center">
-                    <div class="row">
-                        <div class="col-md-4 right">
-                            <div class="img"><img src="img/img-1.png" alt=""></div>
-                            <div class="title-img">Ô nhiễm môi trường</div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="img"><img src="img/img-2.png" alt=""></div>
-                            <div class="title-img">Cơ địa yếu</div>
-                        </div>
-                        <div class="col-md-4 left">
-                            <div class="img"><img src="img/img-3.png" alt=""></div>
-                            <div class="title-img">Vi khuẩn gây bệnh</div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-md-12 col-sm-12 part-4">
-                <div class="center header">
-                    <h1>ĐẶC TRỊ VIÊM XOANG - HIỆU QUẢ SAU 15 NGÀY</h1>
-                </div>
-                <div class="center description">
-                    <h3>Hoàn toàn từ thảo dược tự nhiên - Không tác dụng phụ</h3>
-                </div>
-                <div class="center">
-                    <div class="row">
-                        <div class="col-md-3 col-md-offset-2">
-                            <img src="img/medicine.png" alt="">
-                        </div>
-                        <div class="col-md-6">
-                            <div class="list-1">
-                                <div class="item">Thảo dược giúp đặc trị viêm xoang và đảm bảo sức khỏe.</div>
-                                <div class="item">Giảm tình trạng ngứa mũi, hắt hơi.</div>
-                                <div class="item">Giúp cho bạn đảm sức khoẻ kể cả khi thay đổi thời tiết, công tác thuận lợi hơn.</div>
-                                <div class="item">Làm sạch, thông thoáng vùng xoang.</div>
-                                <div class="item">Tăng sức đề kháng cơ thể, khống chế bệnh tái phát.</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="center header">
-                    <h1>CÁCH SỬ DỤNG SẢN PHẨM</h1>
-                </div>
-                <div class="center">
-                    <div class="list-2">
-                        <div class="item">Với sản phẩm đặc trị viêm xoang của nhà thuốc chúng tôi, bạn hãy vệ sinh sạch sẽ vùng mũi sau đó dùng thuốc xịt, ngày 3 lần. Còn đối với thuốc uống để dứt điểm viêm xoang, ngày uống 2 lần trước khi ăn.</div>
-                        <div class="item">Sử dụng từ 1 liệu trình sẽ thấy hiệu quả rõ ràng.</div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-md-12 col-sm-12 part-5">
-                <div class="center header">
-                    <h1>KHÁCH HÀNG NHẬN XÉT VỀ DỊCH VỤ CỦA CHÚNG TÔI</h1>
-                </div>
-                <div class="center">
-                    <div class="content">Nhà thuốc ĐÔNG Y GIA TRUYỀN Việt Nam luôn lấy tâm làm hàng đầu để mang tới những bài thuốc quý giúp chữa bệnh cứu người. Những sản phẩm do nhà thuốc làm ra mang lại hiệu quả & khách hàng được phục vụ tận tình, cảm thấy hài lòng. Những lời nhận xét của khách hàng cũng là động lực để chúng tôi nâng cao chất lượng dịch vụ hơn nữa, để làm hài lòng khách hàng hơn nữa!</div>
-                </div>
-                <div class="center">
-                    <div class="row person">
-                        <div class="col-md-4">
-                            <img src="img/person-1.png" alt="">
-                            <div class="content">
-                                sau khi đc nhà thuốc tư vấn em đã sử dụng thuốc kết hợp với ăn uống điều độ em đã thuyên giảm hẳn, em thấy tự tin hơn vào bản thân mình, cảm ơn nhà thuốc nhiều!
-                            </div>
-                            <div class="name">PHẠM XUÂN HẢI</div>
-                        </div>
-                        <div class="col-md-4">
-                            <img src="img/person-2.png" alt="">
-                            <div class="content">
-                                Cảm ơn nhà thuốc đã giúp em không còn khó chịu khi thay đổi thời tiết, em sẽ giới thiệu bạn bè và người thân bài thuốc hiệu quả mà chi phí rẻ như vậy :)
-                            </div>
-                            <div class="name">Dương Hoàng</div>
-                        </div>
-                        <div class="col-md-4">
-                            <img src="img/person-3.png" alt="">
-                            <div class="content">
-                                Tôi thích phong cách làm việc của nhà thuốc tôi chưa có nhu cầu dùng thuốc vì tôi sợ mua hàng qua mạng. Nhưng nhân viên tư vấn tận tình kiến thức chuyên sâu tư vấn nói đúng tình trạng bệnh của tôi nên tôi quyết định sử dụng. Cảm ơn nhà thuốc rất nhiều.
-                            </div>
-                            <div class="name">Nguyễn Văn Tân</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="center" style="padding-left: 50%;margin-bottom: -10px;">
-                	<div class="down-level-1">
-		            	<div class="down-level-2">
-		            		<span class="glyphicon glyphicon-arrow-down"></span>
-		            	</div>
-		            </div>
-                </div>
-            </div>
-
-            <div class="col-md-12 col-sm-12 part-6">
-
-                <div class="center header">
-                    <h1>FEEDBACK CỦA KHÁCH HÀNG</h1>
-                </div>
-                <div class="center">
-                    <div class="row feedback">
-                        <div class="col-md-4">
-                            <img src="img/feedback-1.jpg" alt="">
-                        </div>
-                        <div class="col-md-4">
-                            <img src="img/feedback-2.jpg" alt="">
-                        </div>
-                        <div class="col-md-4">
-                            <img src="img/feedback-3.jpg" alt="">
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-md-12 col-sm-12 part-7">
-                <div class="center header">
-                    <h1>ĐÔNG Y GIA TRUYỀN - ĐẶC TRỊ VIÊM XOANG</h1>
-                </div>
-                <div class="center">
-                    <div class="row form">
-                        <div class="col-md-6">
-                            <img src="img/medicine.png" alt="">
-                        </div>
-                        <div class="col-md-6">
-                            <form action="" method="POST">
-                                <h2 class="title">Tư vấn miễn phí</h2>
-                                <div class="description">Hãy để lại thông tin của bạn</div>
-
-                                <div class="form-group">
-                                    <input type="text" class="form-control" id="name" placeholder="Họ và tên" required>
-                                </div>
-                                <div class="form-group">
-                                    <input type="text" class="form-control" id="tel" placeholder="Số điện thoại" required>
-                                </div>
-                                <div class="form-group">
-                                    <input type="email" class="form-control" id="email" placeholder="Email" required>
-                                </div>
-                                <input type="button" class="btn" value="Đăng ký tư vấn">
-                            </form>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-md-12 col-sm-12 part-8">
-                <div class="center">
-                    <!-- <div class="fb-comments"></div> -->
-                    <div class="fb-comments" data-href="https://mocmeo.com" data-width="500" data-numposts="5"></div>
-                </div>
-            </div>
-
-            <div class="col-md-12 col-sm-12 part-9">
-                <div class="content">
-                    <div class="row">
-                        <div class="col-md-6 left">© 2018 Sales Landing Page. All rights Reserved</div>
-                        <div class="col-md-6 right">
-                            <a href="">Privacy Policy</a> | <a href="">Disclaimer</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+    <div class="container">
+    	<div class="row">
+    		<div class="col-md-12 col-xs-12 part-1">
+    			<!-- <div class="center block">
+    				<h2>Dạ Dày Mộc Hoa - 100% Thảo dược tự nhiên - An toàn - Lành Tính cho người Bệnh Dạ Dày</h2>
+				</div> -->
+				<div class="center">
+					<div class="logo">
+						<img src="" alt="">
+					</div>
+					<!-- <div class="description"><h2>Chúng tôi đã chữa thành công cho hơn 28.786 người bệnh</h2></div> -->
+					<div class="description"><h2>Xoang Hoa Đà - 100% Thảo dược tự nhiên - An toàn - Lành Tính</h2></div>
+				</div>
+    		</div>
+    		<div class="col-md-12 col-xs-12 part-2">
+    			<div class="center">
+    				<img src="img/banner-3.jpg" alt="">
+    			</div>
+    		</div>
+    		<div class="col-md-12 col-xs-12 part-3">
+    			<div class="center">
+    				<form action="" method="POST">
+					 	<h2 class="title">Ai ở xa để lại SĐT tôi tư vấn miễn phí</h2>
+						<div class="formbody">
+							<div class="form-group">
+								<input type="text" class="form-control" id="name" placeholder="Họ và tên" required>
+							</div>
+							<div class="form-group">
+								<input type="number" class="form-control" id="tel" placeholder="Số điện thoại" required>
+							</div>
+							<input type="button" class="btn" value="Đăng ký tư vấn">
+						</div>
+    				</form>
+    			</div>
+    		</div>
+    		<div class="col-md-12 col-xs-12 part-4">
+    			<div class="center">
+					<h2>Xin chia sẻ về cảm nhận của người bệnh sau khi dùng Dạ Dày Mộc Hoa 1 thời gian</h2>
+					<img src="img/cus-1.png" alt="">
+					<div class="content">
+						<p>
+							Trường hợp bác Nguyễn Thị Hiền (54 tuổi, Hải Dương) đã tìm lại niềm vui trong cuộc sống nhờ XOANG HOA ĐÀ. Đến giờ bác vẫn còn mãi ám ảnh về quãng thời gian bị bệnh tật hành hạ. Bác Hiền chia sẻ:
+						</p>
+						<p>
+							“Tôi bị xoang nhiều năm không hết. Thuốc Tây thuốc ta đều đã dùng nhưng tình trạng Viêm Xoang Viêm Mũi sau 1 thời gian lại tái_lại. Tuyệt vời khi tôi biết đến cách này. Sau một thời gian sử dụng tình trạng Viêm Xoang Viêm Mũi của tôi không còn. Mặt mũi cũng êm hẳn. Đến nay đã 5-6 tháng kể từ khi tôi sử dụng không thấy co dấu hiệu tái lại.
+							Được bạn bè giới thiệu là XOANG HOA ĐÀ chữa được, mình gọi điện và được họ tư vấn rất tận tình, ho có kê cho mình 1 liệu trình thuốc đông cổ truyền, mà không ngờ sử dụng đến tuần thứ 4, mình đã có dấu hiệu nhẹ nhõm hơn với giấc ngủ, mỗi sáng thức dậy cũng không còn sổ mũi nhiều như trước nữa, dịch trong cổ họng của mình cũng dần ít đi và nhất là khi thời tiết thay đổi mình cũng cảm thấy dễ chịu hơn nhiều. Mình gọi cho ho để cảm ơn và đặt thêm 1 liệu trình nữa, bây giờ mình đã khỏi hoàn toàn rồi, chấm dứt 3 năm trời dòng dã khó chịu làm ảnh hưởng tới sức khỏe, công việc và những giấc ngủ với chồng. Giờ đây, đêm đến mình có những giấc ngủ ngon với chồng, có thời gian sáng dậy tươm tất chuẩn bị bữa ăn cho gia đình và quan trọng là mỗi khi thời tiết thay đổi mình không còn cảm thấy sợ hãi và khó chịu nữa. Ho cũng rất tận tình, cứ thi thoảng ho lại gọi hỏi mình để xem tình trạng thế mình nao rồi. Và bây giờ, cũng đã qua hơn 2 năm rồi mà mình không còn dấu hiệu tái phát lại nữa.
+							Thực sự mình biết ơn XOANG HOA ĐÀ rất nhiều!
+							Còn những ai đang khổ sở vì bệnh viêm xoang mà tìm chưa ra cách chữa thì có thể để lại Số Điện Thoại dưới phần bình luận tôi sẽ chuyển cho B.Si giúp mọi người.”
+						</p>
+					</div>
+					<img src="img/cus-2.png" alt="">
+					<div class="content">
+						<p>
+							Chị Nguyễn Thị Liên 37 tuổi cũng từng sống trong khốn khổ bởi chứng bệnh viêm xoang viêm mũi lâu năm không khỏi. Chị Liên chia sẻ:
+						</p>
+						<p>
+							“Lúc trước em bị viêm xoang nặng bác sĩ bảo có dịch mủ ở mũi phải mổ em sợ k dám, về tìm cách đi trị cứ lạnh hoặc cảm hay gì là viêm xoang nó hành.người ta chỉ nhỏ thuốc nam đủ thứ kiểu k biết đi bao nhiêu chỗ k hết.vô tình đi bệnh viện lấy thuốc uống gặp chị kia chỉ cho 1 liệu trình tên là XOANG HOA ĐÀ, này hết luôn tới giờ nhà e 4 người ai cũng bị viêm xoang đều hít xong hết.”
+						</p>
+					</div>
+					<img src="img/cus-3.png" alt="">
+					<div class="content">
+						<p>
+							Bác Nguyễn Văn Hạnh 69 tuổi, cựu chiến binh chia sẻ:
+						</p>
+						<p>
+							“Tôi năm nay 53 tuổi rồi, tôi đã bị bệnh viêm xoang giày vò hơn 20 năm, nhưng may mắn thay, trong 1 lần đi họp cựu chiến binh, tôi được gặp đúng người bạn cho 1 bài thuốc chữa xoang tên là XOANG HOA ĐÀ, sau khi được chẩn đoán bệnh tình và hướng dẫn chữa trị, hiện nay tôi đã khỏi.”
+						</p>
+					</div>
+    			</div>
+    		</div>
+    		<div class="col-md-12 col-xs-12 part-5">
+    			<div class="row">
+    				<div class="col-md-6 col-xs-12 col-sm-12">
+    					<h2>Công dụng của Xoang Hoa Đà:</h2>
+    					<ul>
+    						<li>Điều trị dứt điểm viêm mũi dị ứng, xoang trán, sàng, hàm, poluyp, bướm, viêm họng</li>
+    						<li>Tái tạo nang xoang, niêm mạc mũi. làm lành  các nề mặt vết thương</li>
+    						<!-- <li>Phục hồi và tái tạo lại lớp niêm mạc, dạ dày khỏe mạnh và hoạt động ổn định trở lại.</li>
+    						<li>Bào chế 100% từ thảo dược thiên nhiên, Không Độc Hại, Không Tác Dụng Phụ.</li>
+    						<li>ĐƯỢC BỘ Y TẾ CẤP PHÉP VSATTP.</li> -->
+    					</ul>
+    				</div>
+    				<div class="col-md-6 col-xs-12 col-sm-12">
+    					<form action="" method="POST">
+	                        <h2 class="title">CHỈ ĐĂNG KÝ KHI CÓ NHU CẦU CHỮA BỆNH THẬT SỰ</h2>
+	                        <div class="form-group">
+	                            <input type="text" class="form-control" id="name" placeholder="Họ và tên" required>
+	                        </div>
+	                        <div class="form-group">
+	                            <input type="number" class="form-control" id="tel" placeholder="Nhập số điện thoại" required>
+	                        </div>
+	                        <input type="button" class="btn" value="ĐĂNG KÝ NGAY">
+	                    </form>
+    				</div>
+    			</div>
+    		</div>
+    		<div class="col-md-12 col-xs-12 part-6">
+    			<div class="row">
+    				<div class="col-md-6 col-xs-12 col-sm-12">
+						<h2><p class="p-1">Chỉ 30 ngày xua tan nỗi đau</p></h2>
+						<h2><p class="p-2">KHÔNG TỐN KÉM</p></h2>
+						<h2><p class="p-2">KHÔNG ĐAU ĐỚN</p></h2>
+						<h2><p class="p-2">KHÔNG LO BIẾN CHỨNG</p></h2>
+    				</div>
+    				<div class="col-md-6 col-xs-12 col-sm-12">
+						<h2><p class="p-3">Đừng biến chứng bệnh dạ dày trở thành gánh nặng cho gia đình - người thân</p></h2>
+    				</div>
+    			</div>
+    		</div>
+    	</div>
     </div>
+
+    <div class="notification"></div>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
     <script src="js/script.js"></script>
 </body>
 </html>
